@@ -1,5 +1,6 @@
 # Reddit-downloader
-A CLI tool to download reddit media seamlessly
+A CLI tool to download reddit media seamlessly. 
+
 Pre-requisites:
 - imgur clientID
 - reddit username
